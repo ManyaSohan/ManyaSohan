@@ -2,7 +2,7 @@
 <h3 align="center">Third-Year Computer Science Engineering Student</h3>
 
 <p align="center">
-  <img src="https://share.google/k4364N3VY1amhTX9b" alt="Coding illustration" width="300"/>
+  <img src="https://raw.githubusercontent.com/ManyaSohan/MyImages/main/IMG-20260129-WA0026%20(5).png" alt="Coding illustration" width="300"/>
 </p>
 
 <p align="left">
