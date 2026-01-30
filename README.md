@@ -6,7 +6,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=manyasohan&label=Profile%20views&color=0e75b6&style=flat" alt="manyasohan" />
 </p>
-
+<img align="right" alt="coding" width="300", src="https://media3.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=6c09b952darrydhlh4zjknn6se4khg90s57jdi7gl9tezj97&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
 ---
 
 🔭 I am currently engaged in **exploring emerging technologies and developing exciting, real-world projects**.
