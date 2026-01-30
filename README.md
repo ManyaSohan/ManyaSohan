@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manya Sohan D.H</h1>
 <h3 align="center">Third-Year Computer Science Engineering Student</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ManyaSohan/MyImages/main/IMG-20260129-WA0026%20%285%29.png" alt="Coding illustration" width="300"/>
-</p>
 
 
 <p align="left">
