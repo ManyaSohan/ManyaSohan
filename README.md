@@ -55,13 +55,6 @@
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
 
 </p>
-# 📊 GitHub Stats:
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManyaSohan&show_icons=true&locale=en&layout=compact" alt="ManyaSohan" /></p>
-
- <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ManyaSohan&show_icons=true&locale=en" alt="ManyaSohan" /></p> -->
-
-
 
 </div>
 
